@@ -3,3 +3,28 @@
 .card-course-item {
     margin-top: 16px;
 }
+
+.user-avatar {
+    width: 28px ;
+    height: 28px;
+    border-radius: 50%;
+    margin-right: 4px;
+}
+ 
+.container-fluid {
+    position: relative;
+}
+
+.collapse.navbar-collapse {
+    position: absolute;
+    right: 50px;
+}
+
+.dropdown-menu.show {
+    width: 180px;
+}
+
+.checkbox-select-all-option {
+    margin: 0 16px;
+    width: 180px
+}
